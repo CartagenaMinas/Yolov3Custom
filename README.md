@@ -33,6 +33,14 @@ https://pjreddie.com/media/files/papers/YOLOv3.pdf
   
   Finalmente se obtienen los siguientes archivos
   
+  
+  ----------------------------------------------
+W pasar
+D Siguiente imagen
+HYDRAULIC_SHOVELS
+ELECTRIC_SHOVELS
+MINING_TRUCKS
+  
   	En data/custom/images las imagenes del dataset
   
   	En data/custom/labels los labels .txt del dataset
