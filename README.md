@@ -33,13 +33,7 @@ https://pjreddie.com/media/files/papers/YOLOv3.pdf
   
   Finalmente se obtienen los siguientes archivos
   
-  
-  ----------------------------------------------
-W pasar
-D Siguiente imagen
-HYDRAULIC_SHOVELS
-ELECTRIC_SHOVELS
-MINING_TRUCKS
+ 
   
   	En data/custom/images las imagenes del dataset
   
@@ -114,3 +108,10 @@ MINING_TRUCKS
 
 # **Canal de Youtube**
 [Click aquì pare ver mi canal de YOUTUBE](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
+
+  ----------------------------------------------
+W pasar
+D Siguiente imagen
+HYDRAULIC_SHOVELS
+ELECTRIC_SHOVELS
+MINING_TRUCKS
