@@ -96,6 +96,8 @@ https://pjreddie.com/media/files/papers/YOLOv3.pdf
    Descargar el archivo .pth y copiarlo en el directorio checkpoints local
    
    	python detectC.py --image_folder data/samplesC/ --model_def config/yolov3-custom3C.cfg --weights_path checkpoints/yolov3_ckpt_252.pth --class_path data/custom/classes.names
+	
+	python detectC.py --image_folder data/samplesC/ --model_def config/yolov3-custom3C.cfg --weights_path chekpoints/yolov3_ckpt_189.pth --class_path data/custom/classes.names
    
    	python detect_cam.py --model_def config/yolov3-custom3C.cfg --weights_path checkpoints/yolov3_ckpt_252.pth --class_path data/custom/classes.names --conf_thres 0.6
    
